@@ -1,0 +1,19 @@
+# Keep database passwords private
+/backend/src/main/resources/application.properties
+
+# Java / Spring Boot
+backend/target/
+**/target/
+*.class
+
+# React / Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/

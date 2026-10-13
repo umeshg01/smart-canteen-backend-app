@@ -1,0 +1,10 @@
+orderId,customerName,foodName,quantity,totalPrice,status
+1,"Test Student","Veg Burger",2,120.0,"Pending"
+2,"Test Student","Veg Burger",2,120.0,"Pending"
+3,"Test Student","Veg Burger",2,120.0,"Pending"
+4,"Test Student","Veg Burger",2,120.0,"Pending"
+5,"umesh","Tea",1,15.0,"Pending"
+6,"umesh","Chicken Biryani",1,120.0,"Pending"
+7,"venu","Veg Burger",1,50.0,"Pending"
+8,"CSV Test","Masala Dosa",1,60.0,"Pending"
+9,"umesh","Pizza",1,100.0,"Pending"
